@@ -73,17 +73,17 @@ function App(): JSX.Element {
         style={backgroundStyle}>
         <Header />
         <View
-          style={{
+          style={{ 
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Hello, World!!">
             Edit <Text style={styles.highlight}>App.tsx</Text> to change this
             screen and then come back to see your edits.
           </Section>
-          <Section title="See Your Changes">
+          <Section title="Este é meu primeiro app">
             <ReloadInstructions />
           </Section>
-          <Section title="Debug">
+          <Section title="É só o começo!">
             <DebugInstructions />
           </Section>
           <Section title="Learn More">

@@ -1,3 +1,22 @@
+# reactNative - Meu primeiro aplicativo
+
+## npx react-native init nomeDoProjeto
+Comando para criar projeto. Entre na pasta do projeto e abra o vscode.
+
+## Inicie o emulador do android (by android studio). 
+Projects/More Actions/Virtual Device Manager/Escolha o smartphone virtual/play >
+
+## No terminal do vscode e dentro da pasta do projeto, digite:
+npx react-native start 
+escolha "a" para android
+
+## (caso o projeto não inicie automaticamente no emulador pelo passo anterior) Abra um novo terminal e digite: 
+npx react-native run-android
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
